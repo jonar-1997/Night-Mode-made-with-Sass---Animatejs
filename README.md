@@ -1,6 +1,4 @@
-# Night-Mode-made-with-Sass-+-Animatejs
-
-Night-Mode-made-with-Sass-+-Animate.js
+# Night Mode made with Sass + Animatejs
 
 A simple toggle dark/light mode switch page.
 
